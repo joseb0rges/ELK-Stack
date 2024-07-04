@@ -1,3 +1,5 @@
+![Texto Alternativo](https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt6e99912c868e1fe8/5cfaecd5c148e2da2c69b812/Enable-security-1.jpg)
+
 ### Configuração de TLS para Elasticsearch, Kibana e Logstash
 
 #### Etapa 1: Configurar o arquivo `/etc/hosts`
